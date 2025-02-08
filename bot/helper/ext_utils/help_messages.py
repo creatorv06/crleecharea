@@ -54,11 +54,11 @@ Example: <b>@hexafreinds -</b>\n
 '''
     SUF = '''
 <b>SUFNAME SETTING</b>\n
-Example: <b>- @hexafreinds</b>\n
+Example: <b>- @creatorv_bot</b>\n
 <b>Org Name:</b>
 <code>Ironman 1 (2008) [1080p].mkv</code>
 <b>Result:</b>
-<code>Ironman 1 (2008) [1080p] - @hexafreinds.mkv</code>\n
+<code>Ironman 1 (2008) [1080p] - @creatorv_bot.mkv</code>\n
 <i>Timeout: 60s.</i>
 '''
     SES = f'''
